@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How can I improve my credit score?",
+    "answer": "To improve your credit score, you should pay your bills on time, reduce your outstanding debt, and avoid opening too many new lines of credit at once."
+  },
+  {
+    "question": "What should I do if my loan application is rejected?",
+    "answer": "If your loan application is rejected, you can request an explanation from the lender, work on improving your credit score and financial situation, and reapply after some time."
+  },
+  {
+    "question": "How do I calculate my monthly loan repayment?",
+    "answer": "Your monthly loan repayment can be calculated using the following formula: Monthly Payment = (Loan Amount * Interest Rate) / (1 - (1 + Interest Rate)^(-Number of Payments))"
+  }
+]
