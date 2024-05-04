@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Personal Loan",
+    "features": [
+      "Flexible loan amount",
+      "Competitive interest rates",
+      "Flexible repayment terms"
+    ],
+    "interest_rate": "12.5% - 18.5%",
+    "repayment_term": "1 - 5 years",
+    "eligibility": {
+      "credit_score": "650+",
+      "income_range": "$30,000 - $100,000",
+      "employment_status": "Permanent or stable income source",
+      "existing_debts": "Manageable debt-to-income ratio"
+    }
+  },
+  {
+    "name": "Home Loan",
+    "features": [
+      "Large loan amounts available",
+      "Fixed or variable interest rates",
+      "Longer repayment terms"
+    ],
+    "interest_rate": "5.5% - 8.5%",
+    "repayment_term": "10 - 30 years",
+    "eligibility": {
+      "credit_score": "700+",
+      "income_range": "$50,000 - $150,000",
+      "employment_status": "Permanent or stable income source",
+      "existing_debts": "Low debt-to-income ratio"
+    }
+  }
+]
