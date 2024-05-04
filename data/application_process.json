@@ -1,0 +1,17 @@
+{
+  "required_documents": [
+    "Proof of income (pay stubs, tax returns)",
+    "Proof of employment or self-employment",
+    "Proof of assets and liabilities (bank statements, investment account statements)",
+    "Identification documents (driver's license, passport)"
+  ],
+  "steps": [
+    "Submit the loan application",
+    "Provide the required documents",
+    "Undergo credit and income verification",
+    "Receive the loan decision",
+    "Sign the loan agreement (if approved)",
+    "Receive the loan disbursement"
+  ],
+  "timeline": "The entire process typically takes 2-4 weeks, depending on the completeness of the application and the loan type."
+}
